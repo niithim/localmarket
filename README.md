@@ -20,7 +20,7 @@ Frontend: HTML, CSS, Bootstrap, JavaScript
 
 Backend / Data Storage: Google Sheets (via Google Apps Script)
 
-Hosting: GitHub Pages / Netlify / any static hosting
+Hosting: GitHub Pages 
 
 📂 Project Structure
 localmarket/
